@@ -1,0 +1,89 @@
+{
+  "Copper": [
+    {
+      "name": "Prime Suppliers Ltd.",
+      "price": 684534.25,
+      "rating": 3.7,
+      "delivery_days": 13,
+      "min_order": 50,
+      "payment_terms": "COD",
+      "reliability": "High"
+    },
+    {
+      "name": "Global Metals Inc.",
+      "price": 704575.95,
+      "rating": 4.9,
+      "delivery_days": 13,
+      "min_order": 100,
+      "payment_terms": "Net 30",
+      "reliability": "High"
+    },
+    {
+      "name": "MetalCorp Trading",
+      "price": 725356.26,
+      "rating": 4.6,
+      "delivery_days": 8,
+      "min_order": 10,
+      "payment_terms": "Net 60",
+      "reliability": "Medium"
+    }
+  ],
+  "Aluminum": [
+    {
+      "name": "MetalCorp Trading",
+      "price": 192852.33,
+      "rating": 3.9,
+      "delivery_days": 5,
+      "min_order": 100,
+      "payment_terms": "Advance",
+      "reliability": "High"
+    },
+    {
+      "name": "Global Metals Inc.",
+      "price": 194738.73,
+      "rating": 3.8,
+      "delivery_days": 7,
+      "min_order": 10,
+      "payment_terms": "COD",
+      "reliability": "Medium"
+    },
+    {
+      "name": "Prime Suppliers Ltd.",
+      "price": 202829.09,
+      "rating": 4.1,
+      "delivery_days": 3,
+      "min_order": 50,
+      "payment_terms": "Advance",
+      "reliability": "High"
+    }
+  ],
+  "Steel": [
+    {
+      "name": "Global Metals Inc.",
+      "price": 63480.96,
+      "rating": 4.4,
+      "delivery_days": 7,
+      "min_order": 10,
+      "payment_terms": "Advance",
+      "reliability": "Medium"
+    },
+    {
+      "name": "MetalCorp Trading",
+      "price": 63923.11,
+      "rating": 4.5,
+      "delivery_days": 14,
+      "min_order": 50,
+      "payment_terms": "COD",
+      "reliability": "High"
+    },
+    {
+      "name": "Prime Suppliers Ltd.",
+      "price": 71270.78,
+      "rating": 4.9,
+      "delivery_days": 4,
+      "min_order": 25,
+      "payment_terms": "Net 30",
+      "reliability": "Medium"
+    }
+  ]
+}

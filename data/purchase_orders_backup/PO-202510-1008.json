@@ -1,0 +1,72 @@
+{
+  "po_number": "PO-202510-1008",
+  "status": "DRAFT",
+  "created_date": "2025-10-16 14:32:32",
+  "created_by": "Procurement Manager",
+  "material": {
+    "name": "Copper",
+    "quantity": 100.0,
+    "unit": "tons",
+    "unit_price": 8247.4,
+    "current_market_price": 8520.64
+  },
+  "vendor": {
+    "name": "Prime Suppliers Ltd.",
+    "rating": 3.7,
+    "payment_terms": "COD",
+    "min_order": 50,
+    "reliability": "High"
+  },
+  "delivery": {
+    "expected_date": "2025-10-29",
+    "delivery_days": 13,
+    "delivery_address": "Warehouse A",
+    "contact_person": "Procurement Manager",
+    "contact_phone": "+91-XXXXXXXXXX"
+  },
+  "financial": {
+    "subtotal": 824740.0,
+    "tax_rate": 0.18,
+    "tax_amount": 148453.2,
+    "total_amount": 973193.2,
+    "currency": "USD",
+    "potential_savings": 27324.0
+  },
+  "ai_recommendation": {
+    "recommendation": "BUY NOW",
+    "reason": "Price expected to rise by 4.0% in next 7 days",
+    "confidence": "High",
+    "forecast_change": "3.99%",
+    "best_day_to_buy": 1
+  },
+  "inventory_context": {
+    "current_stock": 218.54,
+    "min_threshold": 100,
+    "daily_consumption": 29.01,
+    "days_remaining": 7.5
+  },
+  "terms": [
+    "Payment terms as per vendor agreement",
+    "Quality inspection upon delivery",
+    "Penalties for late delivery as per contract",
+    "Material specifications as per industry standards",
+    "Insurance coverage during transit"
+  ],
+  "approvals": {
+    "requester": {
+      "name": "Procurement Manager",
+      "status": "APPROVED",
+      "date": "2025-10-16"
+    },
+    "manager": {
+      "name": "Pending",
+      "status": "PENDING",
+      "date": null
+    },
+    "finance": {
+      "name": "Pending",
+      "status": "PENDING",
+      "date": null
+    }
+  }
+}

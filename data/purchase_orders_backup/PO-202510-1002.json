@@ -1,0 +1,40 @@
+{
+  "po_number": "PO-202510-1002",
+  "status": "DRAFT",
+  "created_date": "2025-10-16 12:00:56",
+  "created_by": "Procurement Manager",
+  "material": {
+    "name": "Copper",
+    "quantity": 100,
+    "unit": "tons",
+    "unit_price": 8247.4,
+    "current_market_price": 8485.59
+  },
+  "vendor": {
+    "name": "Prime Suppliers Ltd.",
+    "rating": 3.7,
+    "payment_terms": "COD",
+    "min_order": 50,
+    "reliability": "High"
+  },
+  "delivery": {
+    "expected_date": "2025-10-29",
+    "delivery_days": 13,
+    "delivery_address": "Warehouse A",
+    "contact_person": "Procurement Manager",
+    "contact_phone": "+91-XXXXXXXXXX"
+  },
+  "financial": {
+    "subtotal": 824740.0,
+    "tax_rate": 0.18,
+    "tax_amount": 148453.2,
+    "total_amount": 973193.2,
+    "currency": "USD",
+    "potential_savings": 23819.0
+  },
+  "ai_recommendation": {
+    "recommendation": "BUY NOW",
+    "reason": "Price expected to rise by 4.3% in next 7 days",
+    "confidence": "High",
+    "forecast_change": "4.28%",
+    "best_day_to_buy": 

@@ -1,0 +1,74 @@
+{
+  "po_number": "PO-202510-1011",
+  "status": "APPROVED",
+  "created_date": "2025-10-17 05:49:37",
+  "created_by": "Procurement Manager",
+  "material": {
+    "name": "Aluminum",
+    "quantity": 100.0,
+    "unit": "tons",
+    "unit_price": 192852.33,
+    "current_market_price": 169320.0
+  },
+  "vendor": {
+    "name": "MetalCorp Trading",
+    "rating": 3.9,
+    "payment_terms": "Advance",
+    "min_order": 100,
+    "reliability": "High"
+  },
+  "delivery": {
+    "expected_date": "2025-10-22",
+    "delivery_days": 5,
+    "delivery_address": "Warehouse A",
+    "contact_person": "Procurement Manager",
+    "contact_phone": "+91-XXXXXXXXXX"
+  },
+  "financial": {
+    "subtotal": 19285233.0,
+    "tax_rate": 0.18,
+    "tax_amount": 3471341.94,
+    "total_amount": 22756574.94,
+    "currency": "USD",
+    "potential_savings": -2353233.0
+  },
+  "ai_recommendation": {
+    "recommendation": "BUY NOW",
+    "reason": "Price expected to rise by 6.4% in next 7 days",
+    "confidence": "High",
+    "forecast_change": "6.43%",
+    "best_day_to_buy": 6
+  },
+  "inventory_context": {
+    "current_stock": 379.4,
+    "min_threshold": 100,
+    "daily_consumption": 21.97,
+    "days_remaining": 17.3
+  },
+  "terms": [
+    "Payment terms as per vendor agreement",
+    "Quality inspection upon delivery",
+    "Penalties for late delivery as per contract",
+    "Material specifications as per industry standards",
+    "Insurance coverage during transit"
+  ],
+  "approvals": {
+    "requester": {
+      "name": "Procurement Manager",
+      "status": "APPROVED",
+      "date": "2025-10-17"
+    },
+    "manager": {
+      "name": "Pending",
+      "status": "PENDING",
+      "date": null
+    },
+    "finance": {
+      "name": "Pending",
+      "status": "PENDING",
+      "date": null
+    }
+  },
+  "last_updated": "2025-10-17 05:53:51",
+  "last_updated_by": "Procurement Manager"
+}

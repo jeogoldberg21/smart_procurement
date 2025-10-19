@@ -1,0 +1,497 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2025-10-13T18:25:55.473026",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-10-13T18:26:02.621140",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 3,
+    "timestamp": "2025-10-13T18:27:31.601189",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 4,
+    "timestamp": "2025-10-13T18:27:40.701435",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 5,
+    "timestamp": "2025-10-13T18:28:24.789919",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 6,
+    "timestamp": "2025-10-13T18:28:31.891159",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 7,
+    "timestamp": "2025-10-13T18:28:40.960930",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 8,
+    "timestamp": "2025-10-13T18:28:45.727946",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 9,
+    "timestamp": "2025-10-13T18:29:46.485008",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 10,
+    "timestamp": "2025-10-13T18:29:54.875876",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 11,
+    "timestamp": "2025-10-13T18:33:30.785098",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 12,
+    "timestamp": "2025-10-13T18:34:23.357591",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 13,
+    "timestamp": "2025-10-13T18:34:55.021997",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 14,
+    "timestamp": "2025-10-13T18:35:50.055672",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 15,
+    "timestamp": "2025-10-13T18:36:02.429774",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 16,
+    "timestamp": "2025-10-13T18:50:53.916224",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 17,
+    "timestamp": "2025-10-13T18:51:05.256496",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 18,
+    "timestamp": "2025-10-13T18:51:17.571842",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 19,
+    "timestamp": "2025-10-13T18:51:24.360152",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 20,
+    "timestamp": "2025-10-13T18:51:31.029808",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 21,
+    "timestamp": "2025-10-14T18:09:27.411228",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 22,
+    "timestamp": "2025-10-14T18:09:40.805531",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 23,
+    "timestamp": "2025-10-14T18:10:14.911427",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 24,
+    "timestamp": "2025-10-15T17:37:05.164383",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 25,
+    "timestamp": "2025-10-15T17:37:13.901836",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 26,
+    "timestamp": "2025-10-15T17:38:01.758859",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 27,
+    "timestamp": "2025-10-15T17:38:13.145817",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 28,
+    "timestamp": "2025-10-15T17:40:49.282624",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 29,
+    "timestamp": "2025-10-15T17:40:57.934294",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.3% to $2716.15/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 30,
+    "timestamp": "2025-10-15T17:47:06.469523",
+    "type": "PRICE_INCREASE",
+    "material": "Copper",
+    "message": "Copper price increased 8.8% to $8382.58/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 31,
+    "timestamp": "2025-10-15T17:47:06.480523",
+    "type": "PRICE_DROP",
+    "material": "Aluminum",
+    "message": "Aluminum price dropped 12.5% to $2376.31/ton. Consider buying!",
+    "severity": "WARNING",
+    "read": true
+  },
+  {
+    "id": 32,
+    "timestamp": "2025-10-15T17:47:06.487089",
+    "type": "PRICE_DROP",
+    "material": "Steel",
+    "message": "Steel price dropped 8.3% to $813.02/ton. Consider buying!",
+    "severity": "WARNING",
+    "read": true
+  },
+  {
+    "id": 33,
+    "timestamp": "2025-10-15T17:53:10.282959",
+    "type": "PRICE_INCREASE",
+    "material": "Copper",
+    "message": "Copper price increased 10.3% to $8496.85/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 34,
+    "timestamp": "2025-10-15T17:53:10.289962",
+    "type": "PRICE_DROP",
+    "material": "Aluminum",
+    "message": "Aluminum price dropped 13.0% to $2362.79/ton. Consider buying!",
+    "severity": "WARNING",
+    "read": true
+  },
+  {
+    "id": 35,
+    "timestamp": "2025-10-15T17:53:10.305959",
+    "type": "PRICE_DROP",
+    "material": "Steel",
+    "message": "Steel price dropped 10.6% to $792.47/ton. Consider buying!",
+    "severity": "WARNING",
+    "read": true
+  },
+  {
+    "id": 36,
+    "timestamp": "2025-10-15T17:53:26.529462",
+    "type": "PRICE_INCREASE",
+    "material": "Copper",
+    "message": "Copper price increased 10.3% to $8496.85/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 37,
+    "timestamp": "2025-10-15T17:53:26.534458",
+    "type": "PRICE_DROP",
+    "material": "Aluminum",
+    "message": "Aluminum price dropped 13.0% to $2362.79/ton. Consider buying!",
+    "severity": "WARNING",
+    "read": true
+  },
+  {
+    "id": 38,
+    "timestamp": "2025-10-15T17:53:26.546538",
+    "type": "PRICE_DROP",
+    "material": "Steel",
+    "message": "Steel price dropped 10.6% to $792.47/ton. Consider buying!",
+    "severity": "WARNING",
+    "read": true
+  },
+  {
+    "id": 39,
+    "timestamp": "2025-10-15T17:54:33.637146",
+    "type": "PRICE_INCREASE",
+    "material": "Copper",
+    "message": "Copper price increased 10.3% to $8496.85/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 40,
+    "timestamp": "2025-10-15T17:54:33.648155",
+    "type": "PRICE_DROP",
+    "material": "Aluminum",
+    "message": "Aluminum price dropped 13.0% to $2362.79/ton. Consider buying!",
+    "severity": "WARNING",
+    "read": true
+  },
+  {
+    "id": 41,
+    "timestamp": "2025-10-15T17:54:33.662214",
+    "type": "PRICE_DROP",
+    "material": "Steel",
+    "message": "Steel price dropped 10.6% to $792.47/ton. Consider buying!",
+    "severity": "WARNING",
+    "read": true
+  },
+  {
+    "id": 42,
+    "timestamp": "2025-10-15T17:54:43.614343",
+    "type": "PRICE_INCREASE",
+    "material": "Copper",
+    "message": "Copper price increased 10.3% to $8496.85/ton.",
+    "severity": "INFO",
+    "read": true
+  },
+  {
+    "id": 43,
+    "timestamp": "2025-10-15T17:54:43.655345",
+    "type": "PRICE_DROP",
+    "material": "Aluminum",
+    "message": "Aluminum price dropped 13.0% to $2362.79/ton. Consider buying!",
+    "severity": "WARNING",
+    "read": true
+  },
+  {
+    "id": 44,
+    "timestamp": "2025-10-15T17:54:43.689451",
+    "type": "PRICE_DROP",
+    "material": "Steel",
+    "message": "Steel price dropped 10.6% to $792.47/ton. Consider buying!",
+    "severity": "WARNING",
+    "read": true
+  },
+  {
+    "id": 45,
+    "timestamp": "2025-10-16T09:32:51.192172",
+    "type": "PRICE_INCREASE",
+    "material": "Copper",
+    "message": "Copper price increased 11.7% to $8604.56/ton.",
+    "severity": "INFO",
+    "read": false
+  },
+  {
+    "id": 46,
+    "timestamp": "2025-10-16T09:32:51.268162",
+    "type": "PRICE_DROP",
+    "material": "Aluminum",
+    "message": "Aluminum price dropped 11.0% to $2416.21/ton. Consider buying!",
+    "severity": "WARNING",
+    "read": false
+  },
+  {
+    "id": 47,
+    "timestamp": "2025-10-16T09:32:51.279168",
+    "type": "PRICE_DROP",
+    "material": "Steel",
+    "message": "Steel price dropped 11.7% to $782.71/ton. Consider buying!",
+    "severity": "WARNING",
+    "read": true
+  },
+  {
+    "id": 48,
+    "timestamp": "2025-10-16T14:34:48.925104",
+    "type": "PRICE_INCREASE",
+    "material": "Copper",
+    "message": "Copper price increased 5.5% to $8728.49/ton.",
+    "severity": "INFO",
+    "read": false
+  },
+  {
+    "id": 49,
+    "timestamp": "2025-10-16T15:44:59.889293",
+    "type": "PRICE_INCREASE",
+    "material": "Steel",
+    "message": "Steel price increased 8187.5% to $66865.91/ton.",
+    "severity": "INFO",
+    "read": false
+  },
+  {
+    "id": 50,
+    "timestamp": "2025-10-17T05:39:23.648099",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 19.6% to $202548.26/ton.",
+    "severity": "INFO",
+    "read": false
+  },
+  {
+    "id": 51,
+    "timestamp": "2025-10-17T05:39:23.655127",
+    "type": "PRICE_DROP",
+    "material": "Steel",
+    "message": "Steel price dropped 13.0% to $64809.85/ton. Consider buying!",
+    "severity": "WARNING",
+    "read": false
+  },
+  {
+    "id": 52,
+    "timestamp": "2025-10-17T05:44:17.346798",
+    "type": "PRICE_DROP",
+    "material": "Copper",
+    "message": "Copper price dropped 5.1% to $689845.46/ton. Consider buying!",
+    "severity": "WARNING",
+    "read": false
+  },
+  {
+    "id": 53,
+    "timestamp": "2025-10-17T05:47:15.449380",
+    "type": "PRICE_DROP",
+    "material": "Aluminum",
+    "message": "Aluminum price dropped 16.4% to $169320.00/ton. Consider buying!",
+    "severity": "WARNING",
+    "read": false
+  },
+  {
+    "id": 54,
+    "timestamp": "2025-10-17T05:47:48.827740",
+    "type": "PRICE_INCREASE",
+    "material": "Copper",
+    "message": "Copper price increased 5.4% to $726871.71/ton.",
+    "severity": "INFO",
+    "read": false
+  },
+  {
+    "id": 55,
+    "timestamp": "2025-10-17T09:28:47.033240",
+    "type": "PRICE_INCREASE",
+    "material": "Aluminum",
+    "message": "Aluminum price increased 5.6% to $204292.06/ton.",
+    "severity": "INFO",
+    "read": false
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "Copper": {
+    "current_stock": 218.54,
+    "unit": "tons",
+    "min_threshold": 100,
+    "max_capacity": 1000,
+    "daily_consumption": 29.01,
+    "last_updated": "2025-10-17T05:18:53.862654",
+    "location": "Warehouse A",
+    "status": "Normal"
+  },
+  "Aluminum": {
+    "current_stock": 379.4,
+    "unit": "tons",
+    "min_threshold": 100,
+    "max_capacity": 1000,
+    "daily_consumption": 21.97,
+    "last_updated": "2025-10-17T05:18:53.862654",
+    "location": "Warehouse A",
+    "status": "Normal"
+  },
+  "Steel": {
+    "current_stock": 120.21,
+    "unit": "tons",
+    "min_threshold": 100,
+    "max_capacity": 1000,
+    "daily_consumption": 13.12,
+    "last_updated": "2025-10-17T05:18:53.862654",
+    "location": "Warehouse A",
+    "status": "Normal"
+  }
+}
