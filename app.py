@@ -932,4 +932,7 @@ def initialize_app():
 
 if __name__ == '__main__':
     initialize_app()
-    app.run(debug=config.FLASK_DEBUG, port=config.FLASK_PORT, threaded=True)
+    app.run(debug=False, 
+        use_reloader=False, 
+        port=config.FLASK_PORT, 
+        threaded=True)
